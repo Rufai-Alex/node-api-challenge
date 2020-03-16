@@ -53,6 +53,8 @@ By receiving HTTP status code
 
 - [ ] How can we partition our application into sub-applications?
 
+By separating those that their work is similar to different files and like them together like grouping routes together also middleweres.
+
 ## Minimum Viable Product
 
 - [ ] Configure an _npm script_ named _"server"_ that will execute your code using _nodemon_. Make _nodemon_ be a development time dependency only, it shouldn't be deployed to production.
